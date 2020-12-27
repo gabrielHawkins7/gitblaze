@@ -1,0 +1,159 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/7TdLZ7IAhRdhleDaLBKqz5zd1Rr9Uxc0l40Detzy-vw=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/gitpageblazetest.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/gitpageblazetest.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/9kUbuyWlpCCl3yKnfiBEbUNjNQiXmfeI47O8BCnt5gM=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/C8-gab5di2yZlV1ZgrNLKZorov2LU0VElCWsHsiiEkg=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/HRkC30BN0JpWb3xdfi0-RtMoqFcq-XLdjq6RLa81zoY=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/Vts5j6prRsrdnZEWsiRQqb08Q4S3Bm78g-I0SVhomnY=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/CBVZ5_Ix3FfngCd8RsGLvfl3KLP_SSVhvoPA8KiLM-s=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/w_R0M4xcbbBQ7q-I0YvWVRRwMlK0UUPq-hZkgBa5Uvg=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/nNCUfEN6w0-YTy67iOvn_GeBNNvFspeABBAMP1hyuYY=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/mEN1zKHTbEzpw0wyiw4bJ1LMynsPKXow7KkOQGeQ2WY=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/nf0LvQYGh542BRIdSyEkimvbp8as7jtYHB8fQOP0KY8=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/Bsp_xBpUoPCBijlic_9H2I_uySermaI77OYHCMxW8fM=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.Logging.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/TavKg8dMq-CuiF2OEo_2z4jExCoaDT-y1wv498YooNM=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.Options.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/fkX9MoKEIAY40_xfxterWothWIwYITprDpMtaK-E7LE=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/3cbvJEo8k8VJVQwyEZWWQ6yGRFQW8-219DaOnmsX3e4=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.JSInterop.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/zV-OfJNfNsG404X30Pwkdymdh1KmZpTVEmG-JNFVc-k=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/iFbKZFkQdF_Nx1DSkq00QDbsOIwRrCGEUZyR9BdM5Wo=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/mscorlib.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/mscorlib.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/pvWTkqZyxsBH_FwD2t6vgOBVFgG9rwIdUigWp2mY0Hw=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.Core.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/PAk12m3piUsv-0lCkTUL7uRH8tIk39T0FLqRQ7A4NP8=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/PIPH9j139SG0npRPrr7i-CMJ7sAe6-MuQME7FG0l7xI=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.Net.Http.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.Net.Http.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/Jv5RioRo93_ifRZvxt-PaHyXeMu5Hv4oTz2UP0yIBrg=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.Net.Http.Json.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.Net.Http.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/1qZ03qGyIwI5tKtAeLHW_mjIKKWR5L3XcIIFj6lZCy4=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/1fujKTGdBGnbt1cerTh_ZrgLmhTHc0__MLmIN-ivRZs=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/ZwG_YfKzfrKIMHk15hfi5hq3EvSnS7EnQAqW7xhbF1E=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.Text.Encodings.Web.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.Text.Encodings.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/je20-ho3sOau57QU7LLvWU02qMGG6kQ01ahFRBT8SfU=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/System.Text.Json.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/System.Text.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/KKoeGcVexQM0HgVOyGtXGZs4QIFdozfA7ub70TdtEss=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/linker\/WebAssembly.Bindings.dll",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/_bin\/WebAssembly.Bindings.dll.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "\/Users\/gabreilhawkins\/.nuget\/packages\/microsoft.aspnetcore.components.webassembly.runtime\/3.2.0\/tools\/dotnetwasm\/wasm\/dotnet.3.2.0.js",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/wasm\/dotnet.3.2.0.js.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "\/Users\/gabreilhawkins\/.nuget\/packages\/microsoft.aspnetcore.components.webassembly.runtime\/3.2.0\/tools\/dotnetwasm\/wasm\/dotnet.timezones.dat",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/wasm\/dotnet.timezones.dat.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "\/Users\/gabreilhawkins\/.nuget\/packages\/microsoft.aspnetcore.components.webassembly.runtime\/3.2.0\/tools\/dotnetwasm\/wasm\/dotnet.wasm",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/wasm\/dotnet.wasm.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash",
+      "Source": "\/Users\/gabreilhawkins\/.nuget\/packages\/microsoft.aspnetcore.components.webassembly.build\/3.2.1\/tools\/blazor\/blazor.webassembly.js",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/blazor.webassembly.js.br"
+    },
+    {
+      "InputSource": "obj\/Release\/netstandard2.1\/integrity\/UKF2i4QLcLuRvvRbXdBXn830DZ7pmWuLw9vo46OquTY=.hash",
+      "Source": "\/Users\/gabreilhawkins\/Projects\/gitpageblazetest\/gitpageblazetest\/obj\/Release\/netstandard2.1\/blazor\/blazor.boot.json",
+      "Target": "obj\/Release\/netstandard2.1\/compressed\/_framework\/blazor.boot.json.br"
+    }
+  ]
+}
